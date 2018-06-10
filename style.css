@@ -20,6 +20,30 @@ li {
   display: inline;
 }
 
+/* Testing image code */
+
+body {
+	/* margin: 0;
+	overflow: hidden; */
+}
+
+canvas {
+	background-image: radial-gradient(#666, #333);
+}
+
+#instructions {
+	position: absolute;
+	color: #fff;
+	bottom: 0;
+	padding-bottom: 6px;
+	font-family: sans-serif;
+	width: 100%;
+	text-align: center;
+	pointer-events: none;
+}
+
+/*  */
+
 #firstPage {
   background-image: url(background-cover.jpg);
   background-repeat: no-repeat;
